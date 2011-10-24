@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mTestActorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mExercise3 [0m[0m
+[0m[[0minfo[0m] [0m[32m- should teach you to how you can unit test your Actors[0m[0m
+[0m[[0minfo[0m] [0m[32m- should teach you to write integration tests using TestKit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should teach you use TestProbes in your tests[0m[0m

@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mFileAppenderActorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mExercise6 [0m[0m
+[0m[[0minfo[0m] [0m[32m- should teach you how to use become and unbecome to change behavior[0m[0m
+[0m[[0minfo[0m] [0m[32m- should teach you how you can make IO asynchronous with Actors[0m[0m
+[0m[[0minfo[0m] [0m[32m- should BONUS: make the actor automatically clean itself up and becoming 'closed' when stopped[0m[0m
+[0m[[0minfo[0m] [0m[32m- should BONUS: use akka.actor.Actor.spawn to send lots of text in concurrently to the same appender[0m[0m
