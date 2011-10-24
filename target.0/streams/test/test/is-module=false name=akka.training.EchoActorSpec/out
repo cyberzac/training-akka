@@ -1,7 +1,0 @@
-[0m[[0minfo[0m] [0m[32mEchoActorSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32mExercise2 [0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how to reply to a message[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you what happens when you send a message to a stopped actor[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how to echo back messages consistently[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how to respond with different kinds of responses[0m[0m
-[0m[[0minfo[0m] [0m[32m- should BONUS: steach you how to handle the absense of a sender[0m[0m

@@ -1,8 +1,0 @@
-[0m[[0minfo[0m] [0m[32mFutureSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32mExercise9 [0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you the simplest way to extract the result of a Future[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how you can asynchronously transform the result of a future[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how to handle a failure in a Future[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how to pick the fastest service using Futures[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how to await many futures to be completed[0m[0m
-[0m[[0minfo[0m] [0m[32m- should teach you how to compose Futures[0m[0m
